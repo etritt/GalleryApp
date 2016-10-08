@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GalleryApp</string>
+    <string name="title_duck">Duck</string>
+    <string name="title_turkey">Turkey</string>
+    <string name="title_chicken">Chicken</string>
+
+</resources>
